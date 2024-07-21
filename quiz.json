@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Challenge your advanced blockchain knowledge.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is a Merkle Tree?",
+      "answers": ["Data structure", "Tree", "Cryptographic node"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Byzantine fault?",
+      "answers": ["System error", "Fault tolerance", "State machine"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Solidity?",
+      "answers": ["Programming language", "Blockchain tool", "Smart app"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is ZK-SNARK?",
+      "answers": ["Cryptographic proof", "Zero knowledge", "Blockchain node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Sharding?",
+      "answers": ["Blockchain scaling", "Crypto coin", "Network fork"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Lightning Network?",
+      "answers": ["Payment layer", "Blockchain network", "Token layer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Sidechain?",
+      "answers": ["Linked chain", "Blockchain app", "Parallel chain"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is a Genesis Block?",
+      "answers": ["First block", "Last block", "Hash start"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is EVM?",
+      "answers": ["Ethereum VM", "Token machine", "Crypto coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What are Oracles?",
+      "answers": ["Data sources", "Blockchain nodes", "Crypto tokens"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a 51% attack?",
+      "answers": ["Majority control", "Network fork", "Blockchain crash"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Interoperability?",
+      "answers": ["System compatibility", "Network security", "Transaction speed"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Cryptography?",
+      "answers": ["Data security", "Decode process", "Blockchain chain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Hashrate?",
+      "answers": ["Computing power", "Transaction speed", "Work unit"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Private Key?",
+      "answers": ["Access key", "Crypto token", "Security lock"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Block Explorer?",
+      "answers": ["Blockchain viewer", "Crypto miner", "Network node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Consensus?",
+      "answers": ["Agreement protocol", "Network fork", "Node structure"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Gas Limit?",
+      "answers": ["Transaction cap", "Crypto token", "Fee price"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a DEX?",
+      "answers": ["Decentralized exchange", "Crypto wallet", "Digital coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Immutable?",
+      "answers": ["Unchangeable data", "Locked state", "Fast transaction"],
       "correctAnswerIndex": 0
     }
   ]
