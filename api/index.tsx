@@ -66,16 +66,12 @@ app.frame('/next', async c => {
       const value = JSON.stringify({ qi: questionIndex + 1, p: newPoints })
 
       return (
-        <Box width={'100%'}>
-          <Button value={value} action={action}>
-            {item.text}
-          </Button>
-        </Box>
+        <Button value={value} action={action}>
+          {item.text}
+        </Button>
       )
     }),
-    <Box width={'100%'}>
-      <Button.Link href={buttonUrl}>🔗 Share</Button.Link>
-    </Box>,
+    <Button.Link href={buttonUrl}>🔗 Share</Button.Link>,
   ])
 
   return c.res({
