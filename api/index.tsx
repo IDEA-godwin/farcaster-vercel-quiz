@@ -66,12 +66,16 @@ app.frame('/next', async c => {
       const value = JSON.stringify({ qi: questionIndex + 1, p: newPoints })
 
       return (
-        <Button value={value} action={action}>
-          {item.text}
-        </Button>
+        <Box width={'100%'}>
+          <Button value={value} action={action}>
+            {item.text}
+          </Button>
+        </Box>
       )
     }),
-    <Button.Link href={buttonUrl}>🔗 Share</Button.Link>,
+    <Box width={'100%'}>
+      <Button.Link href={buttonUrl}>🔗 Share</Button.Link>
+    </Box>,
   ])
 
   return c.res({
@@ -88,7 +92,7 @@ app.frame('/next', async c => {
         </VStack>
       </Box>
     ),
-    intents,
+    intents
   })
 })
 
