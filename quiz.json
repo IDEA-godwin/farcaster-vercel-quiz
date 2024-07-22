@@ -1,104 +1,104 @@
 {
-  "shortDescription": "Challenge your advanced blockchain knowledge.",
+  "shortDescription": "Test your blockchain knowledge with this quiz.",
   "questions": [
     {
-      "question": "What is a Merkle Tree?",
-      "answers": ["Data structure", "Tree", "Cryptographic node"],
+      "question": "What is PoW?",
+      "answers": ["Work", "Stake", "Hash"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Byzantine fault?",
-      "answers": ["System error", "Fault tolerance", "State machine"],
+      "question": "What is PoS?",
+      "answers": ["Work", "Stake", "Coin"],
       "correctAnswerIndex": 1
     },
     {
-      "question": "What is Solidity?",
-      "answers": ["Programming language", "Blockchain tool", "Smart app"],
+      "question": "What is DApp?",
+      "answers": ["App", "Coin", "Node"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is ZK-SNARK?",
-      "answers": ["Cryptographic proof", "Zero knowledge", "Blockchain node"],
+      "question": "What is NFT?",
+      "answers": ["Coin", "Token", "Node"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is DAO?",
+      "answers": ["Org", "Coin", "Token"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Sharding?",
-      "answers": ["Blockchain scaling", "Crypto coin", "Network fork"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is a Lightning Network?",
-      "answers": ["Payment layer", "Blockchain network", "Token layer"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is a Sidechain?",
-      "answers": ["Linked chain", "Blockchain app", "Parallel chain"],
+      "question": "What is DeFi?",
+      "answers": ["Coin", "Chain", "Finance"],
       "correctAnswerIndex": 2
     },
     {
-      "question": "What is a Genesis Block?",
-      "answers": ["First block", "Last block", "Hash start"],
+      "question": "What is Hash?",
+      "answers": ["Code", "Key", "Data"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Fork?",
+      "answers": ["Split", "Merge", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Gas?",
+      "answers": ["Fee", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Node?",
+      "answers": ["Coin", "Link", "Server"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Miner?",
+      "answers": ["Work", "Coin", "Hash"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Chain?",
+      "answers": ["Block", "Link", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ledger?",
+      "answers": ["Book", "Node", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Wallet?",
+      "answers": ["Coin", "Key", "Store"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Block?",
+      "answers": ["Part", "Chain", "Coin"],
       "correctAnswerIndex": 0
     },
     {
       "question": "What is EVM?",
-      "answers": ["Ethereum VM", "Token machine", "Crypto coin"],
+      "answers": ["VM", "Node", "Coin"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What are Oracles?",
-      "answers": ["Data sources", "Blockchain nodes", "Crypto tokens"],
+      "question": "What is ICO?",
+      "answers": ["Offer", "Coin", "Sale"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is a 51% attack?",
-      "answers": ["Majority control", "Network fork", "Blockchain crash"],
+      "question": "What is Mainnet?",
+      "answers": ["Test", "Live", "Chain"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Altcoin?",
+      "answers": ["Coin", "Token", "Link"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is Interoperability?",
-      "answers": ["System compatibility", "Network security", "Transaction speed"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Cryptography?",
-      "answers": ["Data security", "Decode process", "Blockchain chain"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Hashrate?",
-      "answers": ["Computing power", "Transaction speed", "Work unit"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is a Private Key?",
-      "answers": ["Access key", "Crypto token", "Security lock"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is a Block Explorer?",
-      "answers": ["Blockchain viewer", "Crypto miner", "Network node"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Consensus?",
-      "answers": ["Agreement protocol", "Network fork", "Node structure"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Gas Limit?",
-      "answers": ["Transaction cap", "Crypto token", "Fee price"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is a DEX?",
-      "answers": ["Decentralized exchange", "Crypto wallet", "Digital coin"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "What is Immutable?",
-      "answers": ["Unchangeable data", "Locked state", "Fast transaction"],
+      "question": "What is Cipher?",
+      "answers": ["Code", "Key", "Lock"],
       "correctAnswerIndex": 0
     }
   ]
